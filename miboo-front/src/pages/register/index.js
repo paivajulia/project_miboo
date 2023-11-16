@@ -1,6 +1,6 @@
 import "../../App.css"
 import HeaderComp from '../../components/header';
-import Form from '../../components/form';
+import Register_form from "../../components/registerForm/registerForm";
 
 
 function Register() {
@@ -9,6 +9,7 @@ function Register() {
   return (
     <div className="Register">
         <HeaderComp />
+        <Register_form />
        
     </div>
   );
