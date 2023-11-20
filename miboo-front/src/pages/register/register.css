@@ -1,0 +1,32 @@
+.page-register-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;  
+}
+
+.group-links {
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(77, 14, 43);
+    padding-top: 20px;
+}
+.register-form-container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.link-back{
+    display: flex;
+    padding: 12px;
+    border-radius: 8px;
+    align-items: right;
+    justify-content: right;
+    color: rgb(77, 14, 43);
+    padding-top: 20px;
+}

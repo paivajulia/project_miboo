@@ -1,0 +1,30 @@
+.page-login-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;    
+}
+.group-links {
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(77, 14, 43);
+    padding-top: 20px;
+    
+}
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    min-height: 30px;
+    width: 300px;
+
+    border-radius: 8px;
+    padding: 15px;
+    margin: 8px;
+}
